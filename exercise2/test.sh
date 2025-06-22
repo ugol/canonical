@@ -1,0 +1,1 @@
+go test ./shredder -v
